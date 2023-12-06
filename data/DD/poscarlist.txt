@@ -1,0 +1,17 @@
+0 Au-Au+0_12+Au
+1 Au-Au+10_2+Au
+2 Au-Au+2_10+Au
+3 Au-Au+3_3+Au
+4 Au-Au+3_5+Au
+5 Au-Au+4_16+Au
+6 Au-Au+5_3+Au
+7 Au-Au+5_7+Au
+8 Au-Au+6_10+Au
+9 Au-Au+7_1+Au
+10 Au-Au+7_11+Au
+11 Au-Au+7_9+Au
+12 Au-Au+8_12+Au
+13 Au-Au+8_16+Au
+14 Au-Au+9_1+Au
+15 Au-Au+9_11+Au
+16 Au-Au+9_3+Au
